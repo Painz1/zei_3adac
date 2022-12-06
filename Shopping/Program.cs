@@ -9,3 +9,5 @@ Console.WriteLine("Mineralwasser");
 Console.WriteLine("Rotwei");
 Console.WriteLine("Weißwein");
 Console.WriteLine("Dessert");
+console.WriteLine("Eis");
+console.WriteLine("Zucker");
